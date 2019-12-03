@@ -1,3 +1,3 @@
-nome,nacionalidade,profissao,estado_civil,rg,cpf,rua,numero,bairro,estado,quantia_extenso,numero_cheque,banco
-Maria,brasileira,12345,advogada,solteira,123,1234,"Rua das Flores","Boa Vista",Pernambuco,12000,000000,"Banco 1"
-Jose,brasileiro,123456,dentista,casado,124,1235,"Rua do Egito",Natal,"Rio Grande do Norte,15000,111111,"Banco 2"
+comp_nome,comp_profissao,comp_cpf,vend_nome,vend_profissao,vend_cpf,aluguel_extenso,quantia_extenso,data_posse,test_nome,test_cpf
+Maria,advogada,1234,Jose,dentista,1235,"mil e quinhentos reais","doze mil reais",20/10/1998,Felipe,1236
+Renata,professora,1237,Natalia,médica,1238,"mil e duzentos reais","trinta mil reais",02/07/2008,Bruno,1239

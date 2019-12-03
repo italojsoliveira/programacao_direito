@@ -1,31 +1,20 @@
 CONTRATO DE COMPRA E VENDA DE IMÓVEL
 
-Pelo presente instrumento particular, de um lado, (nome, nacionalidade, profissão, estado civil, portador da Cédula de Identidade, RG nº {}, inscrito no CPF sob o nº {}, residente e domiciliado à Rua {}, nº {}, Bairro {}, Estado de {} ), adiante denominado simplesmente VENDEDOR e, de outro lado, (nome, nacionalidade, profissão, estado civil, portador da Cédula de Identidade, RG nº {}, inscrito no CPF sob o nº {}, residente e domiciliado à Rua {}, nº {}, Bairro {}, Estado de {} ), adiante denominado simplesmente COMPRADOR, têm entre si justo e contratado o que segue, que se obrigam a cumprir por si, seus herdeiros e sucessores:
+Pelo presente instrumento particular, de um lado, (nome, profissão, inscrito no CPF sob o nº {}, adiante denominado simplesmente VENDEDOR e, de outro lado, (nome, profissão, inscrito no CPF sob o nº {}, adiante denominado simplesmente COMPRADOR, têm entre si justo e contratado o que segue, que se obrigam a cumprir por si, seus herdeiros e sucessores:
 
-1 – O VENDEDOR, na qualidade de legítimo proprietário do imóvel situado à Rua {}, nº {}, Bairro {}, Estado de {}, constituído de (faça uma descrição completa do imóvel – você encontrará todas as informações na certidão de propriedade ou na escritura definitiva do imóvel), adquirido através de (escritura definitiva, instrumento particular de compra e venda, etc) averbada no {} Registro de Imóveis desta Capital sob o nº de matrícula {}, resolve vendê-lo ao COMPRADOR, pelo valor de R$ {} (valor p/ extenso), que deverá ser pago da seguinte forma:
+1 – O VENDEDOR, na qualidade de legítimo proprietário do imóvel, constituído de (faça uma descrição completa do imóvel – você encontrará todas as informações na certidão de propriedade ou na escritura definitiva do imóvel), adquirido através de (escritura definitiva, instrumento particular de compra e venda, etc) averbada no Registro de Imóveis desta Capital, resolve vendê-lo ao COMPRADOR, pelo valor de R$ {} (valor p/ extenso).
 
-1.1- O valor de R$ {} (valor p/ extenso), a título de sinal e princípio de pagamento, pago neste ato, através do cheque nº {} do Banco {}, do qual o VENDEDOR dará plena quitação após a compensação ou cobrança respectiva;
-
-
-1.2- O valor de R$ {} (valor p/ extenso), no dia {}/{}/{}, contra a apresentação dos documentos e certidões pessoais e do imóvel, adiante relacionados;
-
-1.3- E o saldo restante no valor de R$ {} (valor p/ extenso), no dia {}/{}/{}, quando será lavrada a Escritura definitiva.
-
-2 – Na data do pagamento da segunda parcela (item 1.2), o VENDEDOR apresentará ao COMPRADOR os documentos abaixo relacionados, em perfeita ordem:
+2 – O VENDEDOR apresentará ao COMPRADOR os documentos abaixo relacionados, em perfeita ordem:
 
 (Especifique os documentos necessários. De acordo com cada negócio, pode haver a necessidade da apresentação de documentos específicos. Consulte nosso site na área de ‘dicas’ para ver os documentos habitualmente necessários)
 
 3 – Na hipótese de pagamento em cheques, a quitação das parcelas e do negócio estará condicionada a compensação ou cobrança bancária correspondente.
 
-3.1 – Se o COMPRADOR não efetuar o pagamento das parcelas devidas, ou se os cheques não forem liquidados ou pagos, o presente instrumento considerar-se-á rescindido de pleno direito, ficando o COMPRADOR constituído em mora.
-
-3.2 – Na hipótese de ocorrência de mora, o VENDEDOR restituirá ao COMPRADOR o valor equivalente a {}% (por extenso) da quantia efetivamente paga, corrigido pelo (especifique um índice de reajuste) até a data da devolução.
-
 4 – O presente Contrato é feito em caráter irrevogável e irretratável, obrigando os contratantes por si, seus herdeiros ou sucessores.
 
-5 – A posse do imóvel será transferida ao COMPRADOR no dia {}/{}/{}, (data especificada no item 1.3 ou data posterior) passando a responder por todos os impostos e taxas que recaírem sobre o imóvel, a partir desta data, ainda que lançados em nome do VENDEDOR.
+5 – A posse do imóvel será transferida ao COMPRADOR no dia {}, passando a responder por todos os impostos e taxas que recaírem sobre o imóvel, a partir desta data, ainda que lançados em nome do VENDEDOR.
 
-5.1 – Na hipótese do VENDEDOR não desocupar o imóvel na data especificada, ficará sujeito a um aluguel diário de R$ {} (valor p/ extenso), até a desocupação e entrega definitiva das chaves.
+5.1 – Na hipótese do VENDEDOR não desocupar o imóvel na data especificada, ficará sujeito a um aluguel mensal de R$ {} (valor p/ extenso), até a desocupação e entrega definitiva das chaves.
 
 5.2 – Ao VENDEDOR caberá zelar pela conservação do imóvel até a data da desocupação e entrega definitiva das chaves, inclusive arcando com as despesas que para isso forem necessárias, defendendo-o da turbação ou esbulho de terceiros.
 
@@ -35,9 +24,8 @@ Pelo presente instrumento particular, de um lado, (nome, nacionalidade, profiss�
 
 6 – As partes elegem o foro da situação do imóvel, com renúncia de qualquer outro, por mais privilegiado que seja, para dirimir quaisquer dúvidas ou questões decorrentes deste Contrato, correndo por conta da parte vencida, a multa ou pena convencional de 10% (dez por cento) sobre o valor do presente Contrato, além de despesas judiciais, extrajudiciais e honorários advocatícios da parte vencedora.
 
-E, por estarem justas, contratadas, cientes e de acordo com todas as cláusulas e condições do presente Contrato, assinam este instrumento em 02 (duas) vias para um só efeito, na presença das testemunhas abaixo.
+E, por estarem justas, contratadas, cientes e de acordo com todas as cláusulas e condições do presente Contrato, assinam este instrumento em 02 (duas) vias para um só efeito, na presença da testemunha abaixo.
 
-{}, {} de {} de {}
 
 _____________________________________
 VENDEDOR
@@ -47,10 +35,5 @@ COMPRADOR
 
 _____________________________________
 TESTEMUNHA
-NOME:
-RG:
-
-_____________________________________
-TESTEMUNHA
-NOME:
-RG:
+NOME: {}
+CPF: {}
